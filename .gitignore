@@ -1,4 +1,7 @@
-models/*
+Models/*
 dataset/*
 *.bak*
 .ipynb_checkpoints/*
+__pycache__
+__pycache__/*
+*.pyc
